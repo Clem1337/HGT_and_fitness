@@ -1,1 +1,1 @@
-# HGT_and_fitness
+# Custom script about "HGT-Mediated intra-species functional complementarity faciltates intra-species fitness"
