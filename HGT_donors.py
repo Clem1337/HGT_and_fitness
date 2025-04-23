@@ -9,7 +9,7 @@ import time
 Entrez.email = 'harukaru1337@gmail.com' # Please replace with your actual email
 
 # Set your NCBI API key (optional, but recommended)
-Entrez.api_key = "efa5c48bcc2ac64d3d8955fc2143c6480d08" # Optional, use after registering with NCBI to increase request rate limit
+Entrez.api_key = "" # Optional, use after registering with NCBI to increase request rate limit
 
 # --- File and Folder Path Settings ---
 input_csv = r"id_16s.csv"  # Input CSV file containing IDs
