@@ -2,9 +2,7 @@
 
 This repository contains custom scripts and source data used in the study:  
 
-## 🧬 Project Overview
 
-This project explores how horizontally transferred genes (HGT) contribute to functional complementarity and enhanced fitness within bacteria populations. The analyses combine genomic, transcriptomic, and experimental data to quantify intra-species interactions mediated by HGT events.
 
 ## 📁 Repository Structure
 
