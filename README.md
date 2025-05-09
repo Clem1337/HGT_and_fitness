@@ -6,9 +6,8 @@ This repository contains custom scripts and source data used in the study:
 
 ## 📁 Repository Structure
 
-- `scripts/` – Custom analysis scripts written in Python and R.  
-- `data/` – Source data including gene presence-absence matrices, transcriptomic results, and fitness measurements.  
-- `results/` – Processed outputs and figures.  
+- `Custom script/` – Custom analysis scripts written in Python and R.  
+- `Source data/` – Source data including gene presence-absence matrices, transcriptomic results, and fitness measurements.  
 
 ## ⚙️ Environment
 
