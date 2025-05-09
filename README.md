@@ -1,4 +1,4 @@
-# "HGT-Mediated Intra-species Functional Complementarity Facilitates Intra-species Fitness"
+# "Horizontal gene transfer mediated intra-species functional complementarity enhances intra-species population fitness"
 
 This repository contains custom scripts and source data used in the study:  
 
