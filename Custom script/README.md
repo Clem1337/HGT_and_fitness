@@ -1,4 +1,4 @@
-# Custom script about "HGT-Mediated intra-species functional complementarity faciltates intra-species fitness"
+# Custom script about "Horizontal gene transfer-mediated intra-species functional complementarity enhances intra-species population fitness"
 This repository contains the Python and R scripts used for the data analysis and figure generation.
 
 ## Python Scripts (.py):
