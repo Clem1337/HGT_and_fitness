@@ -1,4 +1,4 @@
-# "Horizontal gene transfer mediated intra-species functional complementarity enhances intra-species population fitness"
+# "Horizontal gene transfer mediated intra-species functional complementarity enhances population fitness"
 
 This repository contains custom scripts and source data used in the study:  
 
