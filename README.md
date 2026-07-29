@@ -2,6 +2,8 @@
 
 This repository contains custom scripts and source data used in the study:  
 
+(doi: 10.1186/s40168-026-02504-8)
+
 
 
 ## 📁 Repository Structure

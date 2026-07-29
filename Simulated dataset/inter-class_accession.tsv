@@ -1,0 +1,101 @@
+accession	organism_name	species_taxid	ftp_path
+GCF_000008765.1	Clostridium acetobutylicum ATCC 824	1488	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/765/GCF_000008765.1_ASM876v1/
+GCF_000019305.1	Clostridium botulinum B1 str. Okra	1491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/019/305/GCF_000019305.1_ASM1930v1/
+GCF_000020605.1	Agathobacter rectalis ATCC 33656	39491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/605/GCF_000020605.1_ASM2060v1/
+GCF_000145275.1	Clostridium cellulovorans 743B	1493	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/145/275/GCF_000145275.1_ASM14527v1/
+GCF_000166415.1	Halanaerobium hydrogeniformans	656519	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/166/415/GCF_000166415.1_ASM16641v1/
+GCF_000175295.2	Thermoanaerobacter brockii subsp. finnii Ako-1	29323	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/175/295/GCF_000175295.2_ASM17529v2/
+GCF_000255615.2	Acetivibrio thermocellus AD2	1515	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/255/615/GCF_000255615.2_ASM25561v3/
+GCF_000305815.1	Dehalobacter sp. CF	1131462	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/305/815/GCF_000305815.1_ASM30581v1/
+GCF_000328625.1	Halobacteroides halobius DSM 5150	42422	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/328/625/GCF_000328625.1_ASM32862v1/
+GCF_000389635.1	Clostridium pasteurianum BC1	1501	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/389/635/GCF_000389635.1_ASM38963v1/
+GCF_000506785.4	Clostridium beijerinckii NRRL B-598	1520	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/506/785/GCF_000506785.4_ASM50678v4/
+GCF_000577895.1	Clostridium bornimense	1216932	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/577/895/GCF_000577895.1_M2_40/
+GCF_000807675.2	Eubacterium limosum	1736	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/807/675/GCF_000807675.2_ASM80767v2/
+GCF_001579785.1	Clostridium perfringens	1502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/579/785/GCF_001579785.1_ASM157978v1/
+GCF_001697245.1	Thermoclostridium stercorarium subsp. thermolacticum DSM 2910	1510	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/697/245/GCF_001697245.1_ASM169724v1/
+GCF_001902295.1	Clostridium kluyveri	1534	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/902/295/GCF_001902295.1_ASM190229v1/
+GCF_001921985.1	Clostridium botulinum	1491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/921/985/GCF_001921985.1_ASM192198v1/
+GCF_002006175.2	Clostridium felsineum	36839	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/006/175/GCF_002006175.2_ASM200617v2/
+GCF_002082765.1	Veillonella atypica	39777	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/082/765/GCF_002082765.1_ASM208276v1/
+GCF_002812625.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/812/625/GCF_002812625.1_ASM281262v1/
+GCF_002946035.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/946/035/GCF_002946035.1_ASM294603v1/
+GCF_003589745.1	Lachnoanaerobaculum umeaense	617123	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/589/745/GCF_003589745.1_ASM358974v1/
+GCF_003697245.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/697/245/GCF_003697245.1_ASM369724v1/
+GCF_004015185.1	Clostridium manihotivorum	2320868	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/015/185/GCF_004015185.1_ASM401518v1/
+GCF_004103735.1	Aminipila luticellarii	2507160	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/103/735/GCF_004103735.1_ASM410373v1/
+GCF_005886215.1	Hungatella hathewayi WAL-18680	154046	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/005/886/215/GCF_005886215.1_ASM588621v1/
+GCF_007833375.1	Clostridium botulinum	1491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/833/375/GCF_007833375.1_ASM783337v1/
+GCF_007833395.1	Clostridium botulinum	1491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/833/395/GCF_007833395.1_ASM783339v1/
+GCF_007833475.1	Clostridium sporogenes	1509	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/833/475/GCF_007833475.1_ASM783347v1/
+GCF_010537155.1	Amedibacterium intestinale	2583452	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/010/537/155/GCF_010537155.1_ASM1053715v1/
+GCF_013112015.1	Blautia pseudococcoides	1796616	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/112/015/GCF_013112015.1_ASM1311201v1/
+GCF_014236775.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/236/775/GCF_014236775.1_ASM1423677v1/
+GCF_015238635.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/238/635/GCF_015238635.1_ASM1523863v1/
+GCF_018406505.1	Veillonella orientalis	2682455	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/406/505/GCF_018406505.1_ASM1840650v1/
+GCF_018408575.1	Vescimonas coprocola	2714355	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/408/575/GCF_018408575.1_ASM1840857v1/
+GCF_018603455.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/603/455/GCF_018603455.1_ASM1860345v1/
+GCF_018884845.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/884/845/GCF_018884845.1_ASM1888484v1/
+GCF_020138375.1	Clostridium perfringens	1502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/138/375/GCF_020138375.1_ASM2013837v1/
+GCF_020736065.1	Finegoldia magna	1260	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/736/065/GCF_020736065.1_ASM2073606v1/
+GCF_021495975.1	Clostridium sporogenes	1509	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/021/495/975/GCF_021495975.1_ASM2149597v1/
+GCF_022453915.1	Lawsonibacter asaccharolyticus	2108523	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/453/915/GCF_022453915.1_ASM2245391v1/
+GCF_023008325.1	Enterocloster bolteae	208479	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/023/008/325/GCF_023008325.1_ASM2300832v1/
+GCF_025149125.1	[Clostridium] asparagiforme DSM 15981	333367	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/025/149/125/GCF_025149125.1_ASM2514912v1/
+GCF_025151995.1	Ruminococcus gauvreauii	438033	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/025/151/995/GCF_025151995.1_ASM2515199v1/
+GCF_026224735.1	Clostridium botulinum	1491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/224/735/GCF_026224735.1_ASM2622473v1/
+GCF_026240795.1	Thermoanaerobacter sp. RKWS2	2983842	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/240/795/GCF_026240795.1_ASM2624079v1/
+GCF_026650965.1	Clostridium estertheticum	238834	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/650/965/GCF_026650965.1_ASM2665096v1/
+GCF_026914305.1	Caldicellulosiruptor acetigenus	301953	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/914/305/GCF_026914305.1_ASM2691430v1/
+GCF_028416695.1	Clostridium botulinum	1491	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/028/416/695/GCF_028416695.1_ASM2841669v1/
+GCF_029393235.1	Clostridium perfringens B	1502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/029/393/235/GCF_029393235.1_ASM2939323v1/
+GCF_030585545.1	Clostridium estertheticum	238834	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/585/545/GCF_030585545.1_ASM3058554v1/
+GCF_032769475.1	Intestinibacillus sp. NTUH-41-i26	3079303	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/032/769/475/GCF_032769475.1_ASM3276947v1/
+GCF_033096525.1	Mediterraneibacter torques	33039	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/033/096/525/GCF_033096525.1_ASM3309652v1/
+GCF_034272815.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/034/272/815/GCF_034272815.1_ASM3427281v1/
+GCF_034274435.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/034/274/435/GCF_034274435.1_ASM3427443v1/
+GCF_035905475.1	Clostridium intestinale	36845	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/035/905/475/GCF_035905475.1_ASM3590547v1/
+GCF_036419135.1	[Clostridium] scindens	29347	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/036/419/135/GCF_036419135.1_ASM3641913v1/
+GCF_036419155.1	Anaerobutyricum hallii	39488	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/036/419/155/GCF_036419155.1_ASM3641915v1/
+GCF_037064645.1	Clostridium baratii	1561	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/064/645/GCF_037064645.1_ASM3706464v1/
+GCF_037494685.1	Clostridium perfringens	1502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/494/685/GCF_037494685.1_ASM3749468v1/
+GCF_037500615.1	Clostridium perfringens	1502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/500/615/GCF_037500615.1_ASM3750061v1/
+GCF_037501685.1	Clostridium perfringens	1502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/501/685/GCF_037501685.1_ASM3750168v1/
+GCF_037915205.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/915/205/GCF_037915205.1_ASM3791520v1/
+GCF_037915725.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/915/725/GCF_037915725.1_ASM3791572v1/
+GCF_037917495.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/917/495/GCF_037917495.1_ASM3791749v1/
+GCF_037929155.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/929/155/GCF_037929155.1_ASM3792915v1/
+GCF_039830115.1	Christensenella minuta	626937	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/039/830/115/GCF_039830115.1_CIP112229/
+GCF_042853075.1	Blautia producta	33035	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/042/853/075/GCF_042853075.1_ASM4285307v1/
+GCF_043187515.1	Anaerococcus cruorum	3115617	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/043/187/515/GCF_043187515.1_ASM4318751v1/
+GCF_045865535.1	Owariibacterium komagatae	3136601	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/045/865/535/GCF_045865535.1_ASM4586553v1/
+GCF_047456285.1	Acetobacterium malicum subsp. dehalogenans DSM 11527	52692	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/047/456/285/GCF_047456285.1_57435/
+GCF_048568315.1	Terrisporobacter petrolearius	1460447	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/048/568/315/GCF_048568315.1_ASM4856831v1/
+GCF_048568335.1	Clostridium perfringens	1502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/048/568/335/GCF_048568335.1_ASM4856833v1/
+GCF_048568345.1	Clostridium perfringens	1502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/048/568/345/GCF_048568345.1_ASM4856834v1/
+GCF_048684865.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/048/684/865/GCF_048684865.1_ASM4868486v1/
+GCF_049244755.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/049/244/755/GCF_049244755.1_DSM29630_HGAP3_1SC/
+GCF_049532795.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/049/532/795/GCF_049532795.1_DSM29752_HGAP2_1SC/
+GCF_051148715.1	Acetoanaerobium noterae	745369	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/148/715/GCF_051148715.1_ANDSL2/
+GCF_051549605.1	Erysipelothrix rhusiopathiae	1648	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/549/605/GCF_051549605.1_ASM5154960v1/
+GCF_051626425.1	Mediterraneibacter gnavus	33038	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/626/425/GCF_051626425.1_ASM5162642v1/
+GCF_052399495.1	Megasphaera elsdenii	907	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/399/495/GCF_052399495.1_ASM5239949v1/
+GCF_053571985.1	Clostridium sp. ETTB3	3438650	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/571/985/GCF_053571985.1_ASM5357198v1/
+GCF_054130445.1	Caproiciproducens sp. LBM24188	3450750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/130/445/GCF_054130445.1_ASM5413044v1/
+GCF_054506745.1	Halotolerantifilum yawarlongkerapense	3459703	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/506/745/GCF_054506745.1_ASM5450674v1/
+GCF_054570755.1	Clostridium saccharoperbutylacetonicum	36745	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/570/755/GCF_054570755.1_ASM5457075v1/
+GCF_054790695.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/790/695/GCF_054790695.1_ASM5479069v1/
+GCF_055361295.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/361/295/GCF_055361295.1_ASM5536129v1/
+GCF_055361365.1	Clostridioides difficile	1496	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/361/365/GCF_055361365.1_ASM5536136v1/
+GCF_055378735.1	Fusibacter fontis	1537567	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/378/735/GCF_055378735.1_ASM5537873v1/
+GCF_055390345.1	Clostridium perfringens	1502	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/390/345/GCF_055390345.1_ASM5539034v1/
+GCF_055391705.1	Desulfovectis peckii	1236215	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/391/705/GCF_055391705.1_ASM5539170v1/
+GCF_056726125.1	Syntrophomonas wolfei subsp. saponavida	863	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/056/726/125/GCF_056726125.1_ASM5672612v1/
+GCF_964271975.1	Mediterraneibacter gnavus	33038	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/271/975/GCF_964271975.1_LUMC_Rgna_QRD015/
+GCF_964271985.1	Mediterraneibacter gnavus	33038	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/271/985/GCF_964271985.1_LUMC_Rgna_QRD020/
+GCF_964272015.1	Mediterraneibacter gnavus	33038	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/272/015/GCF_964272015.1_LUMC_Rgna_QRD014/
+GCF_964272125.1	Mediterraneibacter gnavus	33038	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/272/125/GCF_964272125.1_LUMC_Rgna_QRD026/
+GCF_964272185.1	Mediterraneibacter gnavus	33038	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/272/185/GCF_964272185.1_LUMC_Rgna_QRD024/
+GCF_964272205.1	Mediterraneibacter gnavus	33038	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/272/205/GCF_964272205.1_LUMC_Rgna_QRD011/
+GCF_964272265.1	Mediterraneibacter gnavus	33038	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/272/265/GCF_964272265.1_LUMC_Rgna_QRD006/
+GCF_965569005.1	Dysosmobacter welbionis	2093857	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/965/569/005/GCF_965569005.1_W52_assembly/

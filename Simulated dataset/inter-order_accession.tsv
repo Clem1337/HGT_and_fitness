@@ -1,0 +1,101 @@
+accession	organism_name	species_taxid	ftp_path
+GCF_000011525.1	Staphylococcus aureus subsp. aureus MSSA476	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/525/GCF_000011525.1_ASM1152v1/
+GCF_000019045.1	Anoxybacillus flavithermus WK1	33934	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/019/045/GCF_000019045.1_ASM1904v1/
+GCF_000318055.1	Listeria monocytogenes serotype 4b str. LL195	1639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/318/055/GCF_000318055.1_ASM31805v1/
+GCF_000473245.1	Bacillus infantis NRRL B-14911	324767	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/473/245/GCF_000473245.1_ASM47324v1/
+GCF_000597985.1	Paenibacillus polymyxa SQR-21	1406	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/597/985/GCF_000597985.1_ASM59798v1/
+GCF_000756715.1	Jeotgalicoccus saudimassiliensis	1461582	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/756/715/GCF_000756715.1_PRJEB5505_assembly_1/
+GCF_001019275.2	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/019/275/GCF_001019275.2_ASM101927v2/
+GCF_001019485.2	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/019/485/GCF_001019485.2_ASM101948v2/
+GCF_001278745.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/278/745/GCF_001278745.1_ASM127874v1/
+GCF_001634265.1	Anoxybacillus sp. B2M1	1490052	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/634/265/GCF_001634265.1_ASM163426v1/
+GCF_001683295.1	Bacillus anthracis	1392	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/683/295/GCF_001683295.1_ASM168329v1/
+GCF_001683315.1	Staphylococcus equorum	246432	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/683/315/GCF_001683315.1_ASM168331v1/
+GCF_001687625.2	Planococcus maritimus	192421	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/687/625/GCF_001687625.2_ASM168762v2/
+GCF_001908335.2	Listeria monocytogenes	1639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/908/335/GCF_001908335.2_ASM190833v2/
+GCF_001936375.1	Bacillus anthracis	1392	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/936/375/GCF_001936375.1_ASM193637v1/
+GCF_002119825.1	Macrococcoides caseolyticum	69966	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/119/825/GCF_002119825.1_ASM211982v1/
+GCF_003043895.1	Listeria monocytogenes	1639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/043/895/GCF_003043895.1_ASM304389v1/
+GCF_003096215.1	Caldibacillus thermoamylovorans	35841	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/096/215/GCF_003096215.1_ASM309621v1/
+GCF_003425835.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/425/835/GCF_003425835.1_ASM342583v1/
+GCF_003812505.1	Staphylococcus hominis	1290	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/812/505/GCF_003812505.1_ASM381250v1/
+GCF_005890035.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/005/890/035/GCF_005890035.1_ASM589003v1/
+GCF_006088795.1	Bacillus subtilis subsp. subtilis NCIB 3610 = ATCC 6051 = DSM 10	1423	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/088/795/GCF_006088795.1_ASM608879v1/
+GCF_006542275.1	Saccharibacillus brassicae	2583377	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/542/275/GCF_006542275.1_ASM654227v1/
+GCF_007410625.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/410/625/GCF_007410625.1_ASM741062v1/
+GCF_007726565.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/726/565/GCF_007726565.1_ASM772656v1/
+GCF_009025915.1	Bacillus thuringiensis	1428	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/025/915/GCF_009025915.1_ASM902591v1/
+GCF_009739965.1	Bacillus cereus	1396	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/739/965/GCF_009739965.1_ASM973996v1/
+GCF_009818105.1	Bacillus sp. N1-1	2682541	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/818/105/GCF_009818105.1_ASM981810v1/
+GCF_009912695.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/912/695/GCF_009912695.1_ASM991269v1/
+GCF_011032785.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/011/032/785/GCF_011032785.1_ASM1103278v1/
+GCF_013307065.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/307/065/GCF_013307065.1_ASM1330706v1/
+GCF_014217835.1	Metabacillus elymi	2745198	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/217/835/GCF_014217835.1_ASM1421783v1/
+GCF_014863545.1	Paenibacillus sp. JNUCC32	2777984	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/863/545/GCF_014863545.1_ASM1486354v1/
+GCF_015475575.1	Staphylococcus aureus LAC	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/475/575/GCF_015475575.1_ASM1547557v1/
+GCF_016598895.1	Staphylococcus pseudintermedius	283734	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/598/895/GCF_016598895.1_ASM1659889v1/
+GCF_016774515.1	Staphylococcus shinii	2912228	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/774/515/GCF_016774515.1_ASM1677451v1/
+GCF_016834475.1	Staphylococcus epidermidis	1282	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/834/475/GCF_016834475.1_ASM1683447v1/
+GCF_016904925.1	Bacillus velezensis	492670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/904/925/GCF_016904925.1_ASM1690492v1/
+GCF_017795485.1	Staphylococcus pseudintermedius	283734	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/795/485/GCF_017795485.1_ASM1779548v1/
+GCF_018207515.1	Paenibacillus tritici	1873425	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/207/515/GCF_018207515.1_ASM1820751v1/
+GCF_020097075.1	Macrococcus armenti	2875764	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/097/075/GCF_020097075.1_ASM2009707v1/
+GCF_020388215.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/388/215/GCF_020388215.1_ASM2038821v1/
+GCF_022404595.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/404/595/GCF_022404595.1_ASM2240459v1/
+GCF_023823935.1	Peribacillus asahii	228899	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/023/823/935/GCF_023823935.1_ASM2382393v1/
+GCF_024195225.1	Rossellomorea marisflavi	189381	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/024/195/225/GCF_024195225.1_ASM2419522v1/
+GCF_024204865.1	Staphylococcus epidermidis	1282	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/024/204/865/GCF_024204865.1_ASM2420486v1/
+GCF_025558965.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/025/558/965/GCF_025558965.1_ASM2555896v1/
+GCF_026625445.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/625/445/GCF_026625445.1_ASM2662544v1/
+GCF_028747805.1	Solibacillus daqui	2912187	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/028/747/805/GCF_028747805.1_ASM2874780v1/
+GCF_030122845.1	Paenibacillus woosongensis	307580	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/122/845/GCF_030122845.1_ASM3012284v1/
+GCF_030123425.1	Siminovitchia fortis	254758	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/123/425/GCF_030123425.1_ASM3012342v1/
+GCF_030169085.1	Bacillus subtilis	1423	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/169/085/GCF_030169085.1_ASM3016908v1/
+GCF_030220145.1	Bacillus amyloliquefaciens	1390	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/220/145/GCF_030220145.1_ASM3022014v1/
+GCF_030262405.2	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/262/405/GCF_030262405.2_SA-675_Closure/
+GCF_030517005.1	Bacillus velezensis	492670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/517/005/GCF_030517005.1_ASM3051700v1/
+GCF_030534235.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/534/235/GCF_030534235.1_ASM3053423v1/
+GCF_033841795.2	Bacillus cereus group sp. BfR-BA-01700	3094884	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/033/841/795/GCF_033841795.2_ASM3384179v2/
+GCF_034042935.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/034/042/935/GCF_034042935.1_ASM3404293v1/
+GCF_034427895.2	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/034/427/895/GCF_034427895.2_BSN40_Closure/
+GCF_038024755.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/038/024/755/GCF_038024755.1_WGS_using_MinION_R10.4.1_of_Staphylococcus_aureus_TUM22705/
+GCF_038595005.1	Chryseomicrobium sp. FSL W7-1435	2921704	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/038/595/005/GCF_038595005.1_PS01749/
+GCF_039639755.1	Bacillus anthracis	1392	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/039/639/755/GCF_039639755.1_ASM3963975v1/
+GCF_040144805.1	Listeria monocytogenes	1639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/040/144/805/GCF_040144805.1_ASM4014480v1/
+GCF_040543175.1	Listeria monocytogenes	1639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/040/543/175/GCF_040543175.1_ASM4054317v1/
+GCF_040712045.1	Bacillus velezensis	492670	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/040/712/045/GCF_040712045.1_JM236/
+GCF_041902415.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/041/902/415/GCF_041902415.1_ASM4190241v1/
+GCF_041937585.1	Lysinibacillus sp. RS5	3342411	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/041/937/585/GCF_041937585.1_ASM4193758v1/
+GCF_045348045.1	Staphylococcus aureus subsp. aureus RN4220	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/045/348/045/GCF_045348045.1_ASM4534804v1/
+GCF_046741585.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/046/741/585/GCF_046741585.1_ASM4674158v1/
+GCF_046741775.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/046/741/775/GCF_046741775.1_ASM4674177v1/
+GCF_046742045.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/046/742/045/GCF_046742045.1_ASM4674204v1/
+GCF_047653665.1	Staphylococcus epidermidis	1282	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/047/653/665/GCF_047653665.1_ASM4765366v1/
+GCF_047654225.1	Staphylococcus epidermidis	1282	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/047/654/225/GCF_047654225.1_ASM4765422v1/
+GCF_047658115.1	Staphylococcus capitis	29388	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/047/658/115/GCF_047658115.1_ASM4765811v1/
+GCF_048571095.1	Staphylococcus chromogenes	46126	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/048/571/095/GCF_048571095.1_ASM4857109v1/
+GCF_048685885.1	Bacillus anthracis	1392	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/048/685/885/GCF_048685885.1_ASM4868588v1/
+GCF_050780025.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/050/780/025/GCF_050780025.1_ASM5078002v1/
+GCF_050908105.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/050/908/105/GCF_050908105.1_MW2_P0_assembly/
+GCF_050916415.1	Staphylococcus capitis	29388	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/050/916/415/GCF_050916415.1_JFBB_Scap_D3/
+GCF_051027605.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/027/605/GCF_051027605.1_ASM5102760v1/
+GCF_051788185.1	Bacillus halotolerans	260554	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/788/185/GCF_051788185.1_ASM5178818v1/
+GCF_051903245.1	Staphylococcus pseudintermedius	283734	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/903/245/GCF_051903245.1_ASM5190324v1/
+GCF_052119905.1	Priestia megaterium	1404	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/119/905/GCF_052119905.1_ASM5211990v1/
+GCF_052907245.1	Paenibacillus tundrae	528187	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/907/245/GCF_052907245.1_ASM5290724v1/
+GCF_052927245.1	Listeria monocytogenes	1639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/927/245/GCF_052927245.1_NY_Lm_H29/
+GCF_052975125.1	Staphylococcus sp. aM	3037557	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/975/125/GCF_052975125.1_ASM5297512v1/
+GCF_053319715.1	Listeria monocytogenes	1639	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/319/715/GCF_053319715.1_ASM5331971v1/
+GCF_053524975.1	Staphylococcus chromogenes	46126	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/524/975/GCF_053524975.1_ASM5352497v1/
+GCF_053786015.1	Bacillus subtilis	1423	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/786/015/GCF_053786015.1_ASM5378601v1/
+GCF_053848085.1	Priestia megaterium	1404	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/053/848/085/GCF_053848085.1_Priestia_megaterium_AKSKSLAB05_v1/
+GCF_054552595.1	Bacillus altitudinis	293387	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/552/595/GCF_054552595.1_ASM5455259v1/
+GCF_054880935.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/880/935/GCF_054880935.1_ASM5488093v1/
+GCF_054906205.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/906/205/GCF_054906205.1_ASM5490620v1/
+GCF_055793705.1	Bacillus cereus	1396	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/793/705/GCF_055793705.1_ASM5579370v1/
+GCF_055793905.1	Bacillus cereus	1396	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/793/905/GCF_055793905.1_ASM5579390v1/
+GCF_900324355.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/324/355/GCF_900324355.1_10_5235/
+GCF_900474615.1	Mammaliicoccus sciuri	1296	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/474/615/GCF_900474615.1_40295_D02/
+GCF_900638055.1	Gemella haemolysans	1379	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/638/055/GCF_900638055.1_55147_A01/
+GCF_964057185.1	Staphylococcus aureus	1280	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/057/185/GCF_964057185.1_E3_22S00626-1/
+GCF_977007675.1	Bacillus altitudinis	293387	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/977/007/675/GCF_977007675.1_ASM97700767v1/

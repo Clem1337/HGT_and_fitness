@@ -1,0 +1,101 @@
+accession	organism_name	species_taxid	ftp_path
+GCF_000212395.1	Thermodesulfobium narugense DSM 14796	184064	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/212/395/GCF_000212395.1_ASM21239v1/
+GCF_000270065.1	Helicobacter pylori F57	210	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/270/065/GCF_000270065.1_ASM27006v1/
+GCF_000277755.1	Zymomonas mobilis subsp. mobilis ATCC 29191	542	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/277/755/GCF_000277755.1_ASM27775v1/
+GCF_000486345.2	Salmonella enterica subsp. enterica serovar Typhimurium str. SARA13	28901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/486/345/GCF_000486345.2_ASM48634v2/
+GCF_001007065.1	Chlamydia pneumoniae	83558	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/007/065/GCF_001007065.1_CWL011/
+GCF_001021005.2	Escherichia coli K-12	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/021/005/GCF_001021005.2_ASM102100v2/
+GCF_001025175.1	Bifidobacterium breve DSM 20213 = JCM 1192	1685	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/025/175/GCF_001025175.1_ASM102517v1/
+GCF_001277875.1	Burkholderia pseudomallei	28450	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/277/875/GCF_001277875.1_ASM127787v1/
+GCF_001280925.1	Klebsiella quasipneumoniae	1463165	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/280/925/GCF_001280925.1_ASM128092v1/
+GCF_001314325.1	Sphingopyxis macrogoltabida	33050	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/314/325/GCF_001314325.1_ASM131432v1/
+GCF_001483845.1	Campylobacter coli	195	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/483/845/GCF_001483845.1_ASM148384v1/
+GCF_002278135.3	Bradyrhizobium ottawaense	931866	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/278/135/GCF_002278135.3_ASM227813v3/
+GCF_002447415.1	Mycobacterium tuberculosis	1773	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/447/415/GCF_002447415.1_ASM244741v1/
+GCF_002752735.1	Chlamydia psittaci	83554	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/752/735/GCF_002752735.1_ASM275273v1/
+GCF_002759235.2	Xanthomonas citri pv. phaseoli var. fuscans	346	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/759/235/GCF_002759235.2_ASM275923v2/
+GCF_002804225.1	Mesoplasma lactucae ATCC 49193	138853	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/804/225/GCF_002804225.1_ASM280422v1/
+GCF_002852785.2	Klebsiella pneumoniae subsp. pneumoniae	573	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/852/785/GCF_002852785.2_ASM285278v2/
+GCF_002968655.1	Pseudomonas aeruginosa	287	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/968/655/GCF_002968655.1_ASM296865v1/
+GCF_002997935.1	Chlamydia muridarum str. Nigg	83560	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/997/935/GCF_002997935.1_ASM299793v1/
+GCF_003071525.2	Micrococcus luteus	1270	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/071/525/GCF_003071525.2_ASM307152v2/
+GCF_003177235.1	Salmonella enterica subsp. enterica serovar Typhimurium	28901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/177/235/GCF_003177235.1_ASM317723v1/
+GCF_003181135.1	Klebsiella pneumoniae	573	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/181/135/GCF_003181135.1_ASM318113v1/
+GCF_003718455.1	Salmonella enterica subsp. enterica serovar Typhi	28901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/718/455/GCF_003718455.1_ASM371845v1/
+GCF_003812625.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/812/625/GCF_003812625.1_ASM381262v1/
+GCF_003815955.1	Chryseobacterium bernardetii	1241978	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/815/955/GCF_003815955.1_ASM381595v1/
+GCF_004634745.1	Bordetella pertussis	520	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/634/745/GCF_004634745.1_ASM463474v1/
+GCF_004843725.1	Psychroserpens sp. NJDZ02	2570561	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/843/725/GCF_004843725.1_ASM484372v1/
+GCF_005862305.2	Rhizobium indicum	2583231	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/005/862/305/GCF_005862305.2_ASM586230v2/
+GCF_006542605.1	Porphyrobacter sp. YT40	2547601	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/542/605/GCF_006542605.1_ASM654260v1/
+GCF_006777065.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/777/065/GCF_006777065.1_ASM677706v1/
+GCF_006874725.1	Klebsiella aerogenes	548	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/006/874/725/GCF_006874725.1_ASM687472v1/
+GCF_010587385.1	Vibrio astriarenae	1481923	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/010/587/385/GCF_010587385.1_ASM1058738v1/
+GCF_013122565.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/122/565/GCF_013122565.1_ASM1312256v1/
+GCF_013167775.1	Escherichia coli O157:H7	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/167/775/GCF_013167775.1_ASM1316777v1/
+GCF_013834745.1	Klebsiella pneumoniae	573	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/834/745/GCF_013834745.1_ASM1383474v1/
+GCF_015999385.1	Klebsiella michiganensis	1134687	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/999/385/GCF_015999385.1_ASM1599938v1/
+GCF_017358145.1	Streptomyces sp. CA-256286	2801033	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/358/145/GCF_017358145.1_ASM1735814v1/
+GCF_019602855.1	Cupriavidus pinatubonensis	248026	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/602/855/GCF_019602855.1_ASM1960285v1/
+GCF_019679435.2	Actomonas aquatica	2866162	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/679/435/GCF_019679435.2_ASM1967943v2/
+GCF_019856255.1	Rhodococcus opacus	37919	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/856/255/GCF_019856255.1_ASM1985625v1/
+GCF_019903195.1	Acinetobacter baumannii	470	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/903/195/GCF_019903195.1_ASM1990319v1/
+GCF_019924095.1	Synechocystis sp. PCC 7339	2782213	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/924/095/GCF_019924095.1_ASM1992409v1/
+GCF_019976915.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/976/915/GCF_019976915.1_ASM1997691v1/
+GCF_020735345.1	Mycobacteroides abscessus subsp. abscessus	36809	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/735/345/GCF_020735345.1_ASM2073534v1/
+GCF_021183585.1	Nocardia asteroides	1824	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/021/183/585/GCF_021183585.1_ASM2118358v1/
+GCF_021228675.1	Pseudomonas sp. NIBR-H-19	2901380	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/021/228/675/GCF_021228675.1_ASM2122867v1/
+GCF_022493155.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/493/155/GCF_022493155.1_ASM2249315v1/
+GCF_023546845.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/023/546/845/GCF_023546845.1_ASM2354684v1/
+GCF_024612035.1	Streptomyces sp. DSM 40750	2801030	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/024/612/035/GCF_024612035.1_ASM2461203v1/
+GCF_024666265.1	Klebsiella pneumoniae	573	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/024/666/265/GCF_024666265.1_ASM2466626v1/
+GCF_025159075.1	Riemerella anatipestifer	34085	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/025/159/075/GCF_025159075.1_ASM2515907v1/
+GCF_026650825.1	Corynebacterium pseudotuberculosis	1719	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/650/825/GCF_026650825.1_ASM2665082v1/
+GCF_028473865.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/028/473/865/GCF_028473865.1_ASM2847386v1/
+GCF_028747925.1	Pseudomonas chlororaphis	587753	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/028/747/925/GCF_028747925.1_ASM2874792v1/
+GCF_029773025.1	Aeromonas caviae	648	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/029/773/025/GCF_029773025.1_ASM2977302v1/
+GCF_030122015.1	Pseudomonas aeruginosa	287	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/122/015/GCF_030122015.1_ASM3012201v1/
+GCF_030296015.1	Ferrimonas sp. YFM	3028878	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/296/015/GCF_030296015.1_ASM3029601v1/
+GCF_030406905.1	Streptomyces chengbuensis	3053466	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/406/905/GCF_030406905.1_ASM3040690v1/
+GCF_030685615.1	Klebsiella pneumoniae	573	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/685/615/GCF_030685615.1_ASM3068561v1/
+GCF_032284125.1	Bordetella pertussis	520	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/032/284/125/GCF_032284125.1_ASM3228412v1/
+GCF_035609305.1	Micrococcus sp. HOU01	3101753	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/035/609/305/GCF_035609305.1_ASM3560930v1/
+GCF_036189065.1	Streptomyces griseoaurantiacus	68213	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/036/189/065/GCF_036189065.1_ASM3618906v1/
+GCF_036226705.1	Streptomyces pseudovenezuelae	67350	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/036/226/705/GCF_036226705.1_ASM3622670v1/
+GCF_036496865.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/036/496/865/GCF_036496865.1_ASM3649686v1/
+GCF_037055325.1	Arachnia propionica	1750	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/055/325/GCF_037055325.1_ASM3705532v1/
+GCF_037482275.1	Sinorhizobium meliloti	382	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/482/275/GCF_037482275.1_ASM3748227v1/
+GCF_037873485.1	Salmonella enterica subsp. enterica serovar Typhimurium	28901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/873/485/GCF_037873485.1_ASM3787348v1/
+GCF_037911955.1	Fusobacterium animalis	76859	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/037/911/955/GCF_037911955.1_ASM3791195v1/
+GCF_038500265.1	Ignatzschineria larvae DSM 13226	112009	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/038/500/265/GCF_038500265.1_ASM3850026v1/
+GCF_038729565.1	Bradyrhizobium sp. NL2	3082951	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/038/729/565/GCF_038729565.1_ASM3872956v1/
+GCF_040529055.1	Xanthomonas sontii	2650745	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/040/529/055/GCF_040529055.1_ASM4052905v1/
+GCF_040735455.1	Burkholderia semiarida	2843303	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/040/735/455/GCF_040735455.1_ASM4073545v1/
+GCF_041438065.1	Streptosporangium subroseum	106412	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/041/438/065/GCF_041438065.1_ASM4143806v1/
+GCF_043548525.1	Micrococcus luteus	1270	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/043/548/525/GCF_043548525.1_ASM4354852v1/
+GCF_045006665.1	Mesomycoplasma hyopneumoniae	2099	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/045/006/665/GCF_045006665.1_ASM4500666v1/
+GCF_046529585.1	Leptospira interrogans	173	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/046/529/585/GCF_046529585.1_Ballico/
+GCF_047124755.1	Marinobacter sp. MIT0238	3096990	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/047/124/755/GCF_047124755.1_ASM4712475v1/
+GCF_047730065.1	Candidatus Njordibacter sp. Uisw_058	3230974	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/047/730/065/GCF_047730065.1_ASM4773006v1/
+GCF_048565015.1	Streptomyces prasinus	67345	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/048/565/015/GCF_048565015.1_SBAM_v2/
+GCF_050883545.1	Enterobacter hormaechei subsp. xiangfangensis	158836	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/050/883/545/GCF_050883545.1_ASM5088354v1/
+GCF_051606395.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/606/395/GCF_051606395.1_ASM5160639v1/
+GCF_051980735.1	Streptomyces sp. SCPE 10	3449273	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/980/735/GCF_051980735.1_ASM5198073v1/
+GCF_052814245.1	Nocardia sp. IBHARD005	3457765	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/814/245/GCF_052814245.1_ASM5281424v1/
+GCF_052946735.1	Rhizobium leguminosarum	384	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/946/735/GCF_052946735.1_ASM5294673v1/
+GCF_054125005.1	Pseudomonas aeruginosa	287	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/125/005/GCF_054125005.1_ASM5412500v1/
+GCF_054170785.1	Riemerella anatipestifer	34085	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/170/785/GCF_054170785.1_ASM5417078v1/
+GCF_054898275.1	Acinetobacter baumannii	470	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/898/275/GCF_054898275.1_ASM5489827v1/
+GCF_054954635.1	Pseudomonas plecoglossicida	70775	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/954/635/GCF_054954635.1_ASM5495463v1/
+GCF_055384575.1	Prescottella equi	43767	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/384/575/GCF_055384575.1_ASM5538457v1/
+GCF_055389285.1	Klebsiella pneumoniae	573	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/389/285/GCF_055389285.1_ASM5538928v1/
+GCF_055533505.1	Rhizobium favelukesii	348824	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/533/505/GCF_055533505.1_ASM5553350v1/
+GCF_056738285.1	Xanthomonas citri pv. mangiferaeindicae	346	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/056/738/285/GCF_056738285.1_ASM5673828v1/
+GCF_056770485.1	Vibrio cholerae	666	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/056/770/485/GCF_056770485.1_ASM5677048v1/
+GCF_900638135.1	Serratia quinivorans	137545	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/638/135/GCF_900638135.1_56433_G01/
+GCF_900660725.1	Mycoplasmopsis arginini	2094	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/660/725/GCF_900660725.1_57792_D01-3/
+GCF_940620125.1	Salmonella enterica subsp. enterica serovar Typhi	28901	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/940/620/125/GCF_940620125.1_BRD948_U/
+GCF_964020225.1	Spiroplasma endosymbiont of Tiphia femorata	3066326	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/020/225/GCF_964020225.1_iyTipFemo1.Spiroplasma_sp_1.1/
+GCF_964020965.1	Spiroplasma endosymbiont of Ammophila pubescens	3066315	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/020/965/GCF_964020965.1_iyAmmPube2.Spiroplasma_sp_1.1/
+GCF_964049545.1	Escherichia coli	562	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/049/545/GCF_964049545.1_30821_1_88/
+GCF_964265025.1	Burkholderia sp. LMG 21824	3158172	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/964/265/025/GCF_964265025.1_R-15933_assembly/

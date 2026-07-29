@@ -1,0 +1,101 @@
+accession	organism_name	species_taxid	ftp_path
+GCF_000211055.1	Streptococcus pneumoniae SPN994039	1313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/211/055/GCF_000211055.1_ASM21105v2/
+GCF_000271865.1	Streptococcus mutans GS-5	1309	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/271/865/GCF_000271865.1_ASM27186v1/
+GCF_000299135.1	Streptococcus agalactiae GD201008-001	1311	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/299/135/GCF_000299135.1_ASM29913v1/
+GCF_000478255.1	Lactococcus lactis subsp. lactis NCDO 2118	1358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/478/255/GCF_000478255.1_ASM47825v2/
+GCF_000817065.1	Streptococcus mutans UA159-FR	1309	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/817/065/GCF_000817065.1_ASM81706v1/
+GCF_001014305.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/014/305/GCF_001014305.1_ASM101430v1/
+GCF_001553685.1	Streptococcus sp. oral taxon 431	712633	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/553/685/GCF_001553685.1_ASM155368v1/
+GCF_001558215.1	Streptococcus mutans	1309	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/558/215/GCF_001558215.1_ASM155821v1/
+GCF_001598635.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/598/635/GCF_001598635.1_ASM159863v1/
+GCF_001678885.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/678/885/GCF_001678885.1_ASM167888v1/
+GCF_001870205.1	Vagococcus teuberi	519472	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/870/205/GCF_001870205.1_ASM187020v1/
+GCF_001983955.1	Streptococcus oralis	1303	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/983/955/GCF_001983955.1_ASM198395v1/
+GCF_002197365.1	Streptococcus agalactiae	1311	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/197/365/GCF_002197365.1_ASM219736v1/
+GCF_002197385.1	Streptococcus agalactiae	1311	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/197/385/GCF_002197385.1_ASM219738v1/
+GCF_002243535.1	Tetragenococcus halophilus	51669	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/243/535/GCF_002243535.1_ASM224353v1/
+GCF_002848665.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/848/665/GCF_002848665.1_ASM284866v1/
+GCF_002884955.3	Aerococcus loyolae	2976809	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/884/955/GCF_002884955.3_Hybrid_assembly_2.0/
+GCF_003020765.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/020/765/GCF_003020765.1_ASM302076v1/
+GCF_003402855.1	Streptococcus thermophilus	1308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/402/855/GCF_003402855.1_ASM340285v1/
+GCF_004154305.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/154/305/GCF_004154305.1_ASM415430v1/
+GCF_004328725.1	Lactococcus garvieae	1363	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/328/725/GCF_004328725.1_ASM432872v1/
+GCF_007923885.2	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/007/923/885/GCF_007923885.2_ASM792388v2/
+GCF_008727815.1	Streptococcus sp. LPB0220	2610896	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/727/815/GCF_008727815.1_ASM872781v1/
+GCF_009498175.3	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/498/175/GCF_009498175.3_ASM949817v3/
+GCF_009730535.1	Streptococcus gordonii	1302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/730/535/GCF_009730535.1_ASM973053v1/
+GCF_009755785.1	Streptococcus ruminicola	2686210	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/755/785/GCF_009755785.1_ASM975578v1/
+GCF_009792335.1	Streptococcus ruminicola	2686210	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/792/335/GCF_009792335.1_ASM979233v1/
+GCF_012933295.2	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/012/933/295/GCF_012933295.2_ASM1293329v2/
+GCF_015838875.1	Streptococcus pneumoniae	1313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/015/838/875/GCF_015838875.1_ASM1583887v1/
+GCF_016415285.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/415/285/GCF_016415285.1_ASM1641528v1/
+GCF_016415505.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/415/505/GCF_016415505.1_ASM1641550v1/
+GCF_016743895.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/016/743/895/GCF_016743895.1_ASM1674389v1/
+GCF_017815675.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/017/815/675/GCF_017815675.1_ASM1781567v1/
+GCF_018885285.1	Streptococcus suis	1307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/885/285/GCF_018885285.1_ASM1888528v1/
+GCF_018986875.1	Streptococcus parasuis	1501662	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/018/986/875/GCF_018986875.1_ASM1898687v1/
+GCF_019175505.1	Enterococcus hirae	1354	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/175/505/GCF_019175505.1_ASM1917550v1/
+GCF_019343125.1	Enterococcus lactis	357441	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/343/125/GCF_019343125.1_ASM1934312v1/
+GCF_019915285.1	Streptococcus pneumoniae	1313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/019/915/285/GCF_019915285.1_ASM1991528v1/
+GCF_020616875.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/616/875/GCF_020616875.1_ASM2061687v1/
+GCF_020826995.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/826/995/GCF_020826995.1_ASM2082699v1/
+GCF_020844125.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/020/844/125/GCF_020844125.1_ASM2084412v1/
+GCF_022024355.1	Streptococcus thermophilus	1308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/024/355/GCF_022024355.1_ASM2202435v1/
+GCF_022069485.1	Streptococcus pneumoniae	1313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/069/485/GCF_022069485.1_ASM2206948v1/
+GCF_022069545.1	Streptococcus pneumoniae	1313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/069/545/GCF_022069545.1_ASM2206954v1/
+GCF_022069645.1	Streptococcus pneumoniae	1313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/069/645/GCF_022069645.1_ASM2206964v1/
+GCF_022648595.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/648/595/GCF_022648595.1_ASM2264859v1/
+GCF_022749455.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/022/749/455/GCF_022749455.1_ASM2274945v1/
+GCF_023299325.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/023/299/325/GCF_023299325.1_ASM2329932v1/
+GCF_023299685.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/023/299/685/GCF_023299685.1_ASM2329968v1/
+GCF_023299745.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/023/299/745/GCF_023299745.1_ASM2329974v1/
+GCF_024582755.1	Streptococcus suis	1307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/024/582/755/GCF_024582755.1_ASM2458275v1/
+GCF_025908255.1	Lactococcus garvieae	1363	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/025/908/255/GCF_025908255.1_ASM2590825v1/
+GCF_026409165.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/026/409/165/GCF_026409165.1_ASM2640916v1/
+GCF_028621775.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/028/621/775/GCF_028621775.1_ASM2862177v1/
+GCF_029167565.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/029/167/565/GCF_029167565.1_ASM2916756v1/
+GCF_029542385.1	Streptococcus suis	1307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/029/542/385/GCF_029542385.1_ASM2954238v1/
+GCF_030020495.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/020/495/GCF_030020495.1_ASM3002049v1/
+GCF_030295845.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/030/295/845/GCF_030295845.1_ASM3029584v1/
+GCF_031203465.1	Streptococcus agalactiae	1311	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/031/203/465/GCF_031203465.1_ASM3120346v1/
+GCF_032230945.1	Streptococcus suis	1307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/032/230/945/GCF_032230945.1_ASM3223094v1/
+GCF_033100235.1	Streptococcus pasteurianus	197614	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/033/100/235/GCF_033100235.1_ASM3310023v1/
+GCF_033814155.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/033/814/155/GCF_033814155.1_ASM3381415v1/
+GCF_036352215.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/036/352/215/GCF_036352215.1_ASM3635221v1/
+GCF_036772935.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/036/772/935/GCF_036772935.1_ASM3677293v1/
+GCF_038431575.1	Streptococcus pneumoniae	1313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/038/431/575/GCF_038431575.1_ASM3843157v1/
+GCF_039783295.1	Streptococcus thermophilus	1308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/039/783/295/GCF_039783295.1_STR1_assembly/
+GCF_039784885.1	Streptococcus thermophilus	1308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/039/784/885/GCF_039784885.1_ST128_assembly/
+GCF_041430105.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/041/430/105/GCF_041430105.1_ASM4143010v1/
+GCF_041430915.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/041/430/915/GCF_041430915.1_ASM4143091v1/
+GCF_041511495.1	Streptococcus thermophilus	1308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/041/511/495/GCF_041511495.1_ASM4151149v1/
+GCF_044360885.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/044/360/885/GCF_044360885.1_20200554/
+GCF_045690185.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/045/690/185/GCF_045690185.1_ASM4569018v1/
+GCF_046529565.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/046/529/565/GCF_046529565.1_ASM4652956v1/
+GCF_048570965.1	Ignavigranum ruoffiae	89093	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/048/570/965/GCF_048570965.1_ASM4857096v1/
+GCF_049166555.1	Streptococcus suis	1307	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/049/166/555/GCF_049166555.1_ASM4916655v1/
+GCF_050223855.1	Streptococcus sanguinis	1305	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/050/223/855/GCF_050223855.1_x/
+GCF_050516665.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/050/516/665/GCF_050516665.1_ASM5051666v1/
+GCF_050531945.1	Enterococcus sp. DIV1411a	2774779	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/050/531/945/GCF_050531945.1_Ente_faec_DIV1411a/
+GCF_050540405.1	Enterococcus sp. DIV0340	2774904	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/050/540/405/GCF_050540405.1_Ente_faec_DIV0340/
+GCF_051045055.1	Streptococcus agalactiae	1311	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/045/055/GCF_051045055.1_ASM5104505v1/
+GCF_052055535.1	Enterococcus faecium	1352	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/055/535/GCF_052055535.1_ASM5205553v1/
+GCF_052434765.1	Streptococcus pneumoniae	1313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/434/765/GCF_052434765.1_ASM5243476v1/
+GCF_052566725.1	Streptococcus pneumoniae	1313	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/052/566/725/GCF_052566725.1_ASM5256672v1/
+GCF_054847965.1	Streptococcus agalactiae	1311	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/847/965/GCF_054847965.1_ASM5484796v1/
+GCF_054850745.1	Aerococcus urinae	1376	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/054/850/745/GCF_054850745.1_ASM5485074v1/
+GCF_055814325.1	Enterococcus faecalis	1351	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/055/814/325/GCF_055814325.1_ASM5581432v1/
+GCF_056517455.1	Lactococcus lactis	1358	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/056/517/455/GCF_056517455.1_ASM5651745v1/
+GCF_056673505.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/056/673/505/GCF_056673505.1_ASM5667350v1/
+GCF_056673655.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/056/673/655/GCF_056673655.1_ASM5667365v1/
+GCF_900155855.1	Streptococcus agalactiae	1311	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/155/855/GCF_900155855.1_BM110/
+GCF_900474875.1	Streptococcus equi subsp. zooepidemicus	1336	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/474/875/GCF_900474875.1_41851_B01/
+GCF_900475005.1	Streptococcus pyogenes	1314	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/475/005/GCF_900475005.1_41906_F02/
+GCF_900475185.1	Streptococcus dysgalactiae subsp. equisimilis	1334	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/475/185/GCF_900475185.1_42197_A02/
+GCF_900636415.1	Streptococcus equi subsp. equi	1336	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/636/415/GCF_900636415.1_41825_A01/
+GCF_900636835.1	Streptococcus mutans	1309	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/636/835/GCF_900636835.1_44503_F02/
+GCF_901543995.1	Streptococcus dysgalactiae subsp. equisimilis	1334	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/901/543/995/GCF_901543995.1_42880_D01/
+GCF_901544385.1	Streptococcus gordonii	1302	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/901/544/385/GCF_901544385.1_42912_F01/
+GCF_903886075.1	Streptococcus thermophilus	1308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/903/886/075/GCF_903886075.1_Streptococcus_thermophilus_CIRM_19/
+GCF_903890695.1	Streptococcus thermophilus	1308	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/903/890/695/GCF_903890695.1_Streptococcus_thermophilus_CIRM_998/
+GCF_947055965.1	Enterococcus cecorum	44008	https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/947/055/965/GCF_947055965.1_CIRMBP-1287_assembly/
